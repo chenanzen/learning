@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<manifest identifier="MANIFEST_1" xmlns:d2l_2p0="http://desire2learn.com/xsd/d2lcp_v2p0" xmlns="http://www.imsglobal.org/xsd/imscp_v1p1">
+	<resources>
+		<resource identifier="res_quiz_1" type="webcontent" d2l_2p0:material_type="d2lquiz" href="EssayExam.xml" />
+	</resources>
+</manifest>

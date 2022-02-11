@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<questestinterop xmlns:d2l_2p0="http://desire2learn.com/xsd/d2lcp_v2p0">
+<assessment d2l_2p0:id="1" title="2017-18 Term 2 - Midterm Exam" ident="res_quiz_1">
+<rubric>
+	<flow_mat>
+		<material>
+			<mattext d2l_2p0:isdisplayed="no" texttype="text/html" />
+		</material>
+	</flow_mat>
+</rubric>
+<assessmentcontrol hintswitch="no" solutionswitch="yes" feedbackswitch="no" />
+<presentation_material>
+	<flow_mat>
+		<material label="page header">
+			<mattext d2l_2p0:isdisplayed="no" texttype="text/html" />
+		</material>
+		<material label="page footer">
+			<mattext d2l_2p0:isdisplayed="no" texttype="text/html" />
+		</material>
+	</flow_mat>
+</presentation_material>
+<assess_procextension>
+	<d2l_2p0:intro_message d2l_2p0:isdisplayed="no" texttype="text/html" />
+	<d2l_2p0:disable_right_click>no</d2l_2p0:disable_right_click>
+	<d2l_2p0:disable_pager_access>no</d2l_2p0:disable_pager_access>
+	<is_active>no</is_active>
+	<d2l_2p0:date_start>
+		<d2l_2p0:timestamp>
+			<d2l_2p0:month>3</d2l_2p0:month>
+			<d2l_2p0:day>7</d2l_2p0:day>
+			<d2l_2p0:year>2018</d2l_2p0:year>
+			<d2l_2p0:hour>11</d2l_2p0:hour>
+			<d2l_2p0:minutes>50</d2l_2p0:minutes>
+			<d2l_2p0:seconds>0</d2l_2p0:seconds>
+		</d2l_2p0:timestamp>
+	</d2l_2p0:date_start>
+	<d2l_2p0:date_end>
+		<d2l_2p0:timestamp>
+			<d2l_2p0:month>3</d2l_2p0:month>
+			<d2l_2p0:day>7</d2l_2p0:day>
+			<d2l_2p0:year>2018</d2l_2p0:year>
+			<d2l_2p0:hour>14</d2l_2p0:hour>
+			<d2l_2p0:minutes>0</d2l_2p0:minutes>
+			<d2l_2p0:seconds>0</d2l_2p0:seconds>
+		</d2l_2p0:timestamp>
+	</d2l_2p0:date_end>
+	<d2l_2p0:has_schedule_event>no</d2l_2p0:has_schedule_event>
+	<d2l_2p0:password>charity</d2l_2p0:password>
+	<d2l_2p0:is_attempt_Rldb>no</d2l_2p0:is_attempt_Rldb>
+	<d2l_2p0:is_subview_Rldb>no</d2l_2p0:is_subview_Rldb>
+	<d2l_2p0:time_limit>90</d2l_2p0:time_limit>
+	<d2l_2p0:show_clock>yes</d2l_2p0:show_clock>
+	<d2l_2p0:enforce_time_limit>yes</d2l_2p0:enforce_time_limit>
+	<d2l_2p0:grace_period>3</d2l_2p0:grace_period>
+	<d2l_2p0:late_limit>0</d2l_2p0:late_limit>
+	<d2l_2p0:late_limit_data>1</d2l_2p0:late_limit_data>
+	<d2l_2p0:attempts_allowed>1</d2l_2p0:attempts_allowed>
+	<d2l_2p0:attempt_restrictions />
+	<d2l_2p0:mark_calculation_type>1</d2l_2p0:mark_calculation_type>
+	<d2l_2p0:is_forward_only>no</d2l_2p0:is_forward_only>
+</assess_procextension>
+<assessfeedback title=""><rubric><flow_mat><material><mattext texttype="yes">&lt;p&gt;&lt;strong&gt;&lt;span style="font-size: 18pt; color: #cf2a27;"&gt;Your quiz has been submitted successfully.&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;span style="font-size: 18pt; color: #cf2a27;"&gt;2017-18 Term 2 -&amp;nbsp;Midterm Exam&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;span style="font-size: 18pt; color: #cf2a27;"&gt;Please show this to the Invigilator before you leave the room.&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;</mattext></material></flow_mat></rubric><d2l_2p0:duration>0</d2l_2p0:duration><d2l_2p0:response_display_type_id>1</d2l_2p0:response_display_type_id><d2l_2p0:show_correct_answers>no</d2l_2p0:show_correct_answers><d2l_2p0:submission_restrictip>no</d2l_2p0:submission_restrictip><d2l_2p0:show_class_average>no</d2l_2p0:show_class_average><d2l_2p0:show_score_distribution>no</d2l_2p0:show_score_distribution></assessfeedback><section ident="CONTAINER_SECTION"><item ident="OBJ_674599" label="QUES_217811_255521" d2l_2p0:page="1" title="Essay - Midterm Exam"><itemmetadata><qtimetadata><qti_metadatafield><fieldlabel>qmd_computerscored</fieldlabel><fieldentry>yes</fieldentry></qti_metadatafield><qti_metadatafield><fieldlabel>qmd_questiontype</fieldlabel><fieldentry>Long Answer</fieldentry></qti_metadatafield><qti_metadatafield><fieldlabel>qmd_weighting</fieldlabel><fieldentry>100.000000000</fieldentry></qti_metadatafield><qti_metadatafield><fieldlabel>qmd_globalid</fieldlabel><fieldentry>927f9d2b-c9bb-4d1a-aca4-2307c5c56020</fieldentry></qti_metadatafield><qti_metadatafield><fieldlabel>qmd_displayid</fieldlabel><fieldentry>2013-142IITS105G3-18</fieldentry></qti_metadatafield></qtimetadata></itemmetadata><itemproc_extension><d2l_2p0:difficulty>1</d2l_2p0:difficulty><d2l_2p0:isbonus>no</d2l_2p0:isbonus><d2l_2p0:ismandatory>no</d2l_2p0:ismandatory></itemproc_extension><presentation><flow><material><mattext texttype="text/html">&lt;p&gt;
+&lt;script type="text/javascript" src="https://eLearn.smu.edu.sg/shared/AutoSave/AutoSave.js"&gt;// &lt;![CDATA[
+
+// ]]&gt;&lt;/script&gt;
+&lt;/p&gt;
+&lt;p&gt;2017-182LAW102G51 -&amp;nbsp;Midterm Exam&lt;/p&gt;</mattext></material><response_extension><d2l_2p0:has_signed_comments>no</d2l_2p0:has_signed_comments><d2l_2p0:has_htmleditor>no</d2l_2p0:has_htmleditor></response_extension><response_str ident="QUES_217811_255521_STR" rcardinality="Multiple"><render_fib rows="50" columns="100" prompt="Box" fibtype="String"><response_label ident="QUES_217811_255521_LA"><material><mattext texttype="text/plain" /></material></response_label></render_fib></response_str></flow></presentation></item></section></assessment></questestinterop>
